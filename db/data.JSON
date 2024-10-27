@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "lenguaje": "python",
+    "titulo": "Python for Data Science: A Hands-On Introduction",
+    "autor": "Yuli Vasiliev",
+    "anio": "2022",
+    "precio": 55,
+    "imagen": "./img/python01.jpg"
+  },
+  {
+    "id": 2,
+    "lenguaje": "python",
+    "titulo": "Python Crash Course, 2nd Edition",
+    "autor": "Eric Matthes",
+    "anio": "2019",
+    "precio": 56,
+    "imagen": "./img/python02.jpg"
+  },
+  {
+    "id": 3,
+    "lenguaje": "python",
+    "titulo": "The Big Book of Small Python Projects: 81 Easy Practice Programs",
+    "autor": "Al Sweigart",
+    "anio": "2021",
+    "precio": 57,
+    "imagen": "./img/python03.jpg"
+  },
+  {
+    "id": 4,
+    "lenguaje": "python",
+    "titulo": "Impractical Python Projects: Playful Programming Activities ",
+    "autor": "Lee Vaughan",
+    "anio": "2018",
+    "precio": 58,
+    "imagen": "./img/python04.jpg"
+  },
+  {
+    "id": 5,
+    "lenguaje": "python",
+    "titulo": "Serious Python",
+    "autor": "Julien Danjou",
+    "anio": "2018",
+    "precio": 59,
+    "imagen": "./img/python05.jpg"
+  },
+  {
+    "id": 6,
+    "lenguaje": "javascript",
+    "titulo": "JavaScript Crash Course",
+    "autor": "Nick Morgan",
+    "anio": "2024",
+    "precio": 65,
+    "imagen": "./img/js01.jpg"
+  },
+  {
+    "id": 7,
+    "lenguaje": "javascript",
+    "titulo": "JavaScript for Kids: A Playful Introduction to Programming",
+    "autor": "Nick Morgan",
+    "anio": "2014",
+    "precio": 66,
+    "imagen": "./img/js02.jpg"
+  },
+  {
+    "id": 8,
+    "lenguaje": "javascript",
+    "titulo": "Eloquent JavaScript, 4th Edition",
+    "autor": "Marijn Haverbeke",
+    "anio": "2024",
+    "precio": 67,
+    "imagen": "./img/js03.jpg"
+  },
+  {
+    "id": 9,
+    "lenguaje": "javascript",
+    "titulo": "La Guia Básica de JavaScript",
+    "autor": "Miguel A. Arias",
+    "anio": "2013",
+    "precio": 68,
+    "imagen": "./img/js04.jpg"
+  },
+  {
+    "id": 10,
+    "lenguaje": "javascript",
+    "titulo": "Creación de componentes en JavaScript Curso practico",
+    "autor": "Pablo E. Fernández Casado",
+    "anio": "2023",
+    "precio": 69,
+    "imagen": "./img/js05.jpg"
+  },
+  {
+    "id": 11,
+    "lenguaje": "sql",
+    "titulo": "SQL para Principiantes",
+    "autor": "Preston Prescott",
+    "anio": "2015",
+    "precio": 75,
+    "imagen": "./img/sql01.jpg"
+  },
+  {
+    "id": 12,
+    "lenguaje": "sql",
+    "titulo": "Aprende SQL",
+    "autor": "María Mercedes Marqués Andrés, Gregorio Quintana Ortí",
+    "anio": "2008",
+    "precio": 76,
+    "imagen": "./img/sql02.jpg"
+  },
+  {
+    "id": 13,
+    "lenguaje": "sql",
+    "titulo": "Practical SQL, 2nd Edition",
+    "autor": "Anthony DeBarros",
+    "anio": "2022",
+    "precio": 77,
+    "imagen": "./img/sql03.jpg"
+  },
+  {
+    "id": 14,
+    "lenguaje": "c++",
+    "titulo": "Programación orientada a objetos con C++, 5ª edición.",
+    "autor": "Fco. Javier Ceballos Sierra",
+    "anio": "2020",
+    "precio": 85,
+    "imagen": "./img/c++01.jpg"
+  },
+  {
+    "id": 15,
+    "lenguaje": "c++",
+    "titulo": "C/C++ Curso de programación. 5a. Edición",
+    "autor": "Francisco Javier Ceballos",
+    "anio": "2022",
+    "precio": 86,
+    "imagen": "./img/c++02.jpg"
+  },
+  {
+    "id": 16,
+    "lenguaje": "c++",
+    "titulo": "C++ cómo programar",
+    "autor": "Harvey M. Deitel, Paul J. Deitel",
+    "anio": "2015",
+    "precio": 87,
+    "imagen": "./img/c++03.jpg"
+  },
+  {
+    "id": 17,
+    "lenguaje": "c#",
+    "titulo": "Aprende a programar en C#",
+    "autor": "Ángel Arias",
+    "anio": "2014",
+    "precio": 95,
+    "imagen": "./img/cs01.jpg"
+  },
+  {
+    "id": 18,
+    "lenguaje": "c#",
+    "titulo": "Microsoft C#. Lenguaje y Aplicaciones. 2ª Edición.",
+    "autor": "Fco. Javier Ceballos Sierra",
+    "anio": "2007",
+    "precio": 96,
+    "imagen": "./img/cs02.jpg"
+  }
+]

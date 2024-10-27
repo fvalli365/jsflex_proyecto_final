@@ -1,0 +1,204 @@
+* {
+    background-color: #333333;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.encabezado {
+    font-size: 100px;
+    text-align: center;
+    padding: 20px;
+    color: #00ff00;
+    background-image: url(../img/fondo.jpeg);
+}
+
+.principal {
+    color: #00ff00;    
+}
+
+.h1_main {
+    font-size: 20px;
+    text-align: center;
+    color: #4dff4d;
+}
+
+.h1_pag {
+    font-size: 10px;
+    text-align: center;
+    color: #4dff4d;
+}
+
+.h2_main {
+    font-size: 20px;
+    text-align: center;
+    color: #4dff4d;
+}
+
+.contenedor_busc {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4dff4d;
+}
+
+#boton_buscar {
+    background-color: blue;
+    margin-left: 20px;
+}
+
+#boton_reset {
+    background-color: #66ffff;
+    margin-left: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.ver_carrito {
+    margin-left: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: #ff0000;
+    color: blue;
+}
+
+.ver_carrito {
+    margin-left: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: #ff0000;
+    color: blue;
+}
+
+.ver_carrito2 {
+    text-align: center;
+    background-color: #ff0000;
+    color: blue;
+}
+
+.link_carrito {
+    background-color: #ff0000;
+    color: blue;
+}
+
+.link_carrito2 {
+    background-color: #ff0000;
+    color: blue;
+    width: 300px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#resultado {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#resultado_carr {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.product_container {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px; /* agregado */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    border: 3px solid #4dff4d;
+    margin-top: 50px;
+    margin-bottom: 50px;
+} 
+
+.pago_container {
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+} 
+
+.resumen_container {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: left;
+    border: 2px solid #ff6666;
+    border-radius: 4px;
+    color: #80ff80;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.dat_pers_container {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: left;
+    border: 2px solid #ff6666;
+    border-radius: 4px;
+    color: #80ff80;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+#resultado_pago_final {
+    color: blue;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+} 
+
+.item {
+    color: #1aff1a; 
+    border-radius: 20px; 
+}
+
+.item2 {
+    color: #1aff1a; 
+}
+
+.pago {
+    color: #00ff00;
+}
+
+#datos_pag {
+    text-align: center;
+}
+
+#resumen_pag {
+    text-align: center;
+}
+
+.input {
+    border: 2px solid #ff6666;
+    border-radius: 4px;
+}
+
+.spans {
+    color: #ff6666;
+}
+
+#bsubmit {
+    background-color: #737373;
+}
+
+.pie {
+    font-family:"Ubuntu", sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #00ff00;
+    margin-top: 50px;
+}
+
+.link_pie {
+    color: #00ff00;
+}
